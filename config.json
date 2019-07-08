@@ -1,0 +1,9 @@
+{
+    "loginUrl": "http://localhost:5000/api/user/login",
+    "mongoUri": "mongodb://localhost/projxportal",
+    "slackWebhookUri": "...",
+    "scriptsUsername": "vfazel",
+    "scriptsPath": "/projx-judging",
+    "cookieSecret": "...",
+    "authSecret": "..."
+}
